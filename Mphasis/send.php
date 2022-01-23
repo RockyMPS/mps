@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-    $email_to = "hr@mphasisservices.com"; // change with your email
+    $email_to = "lvallabha@gmail.com"; // change with your email
     $name     = $_POST['name'];  
     $email    = $_POST['email'];
     $subject   = $_POST['subject'];
